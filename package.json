@@ -1,0 +1,25 @@
+{
+  "name": "actual-empty-file",
+  "version": "1.0.0",
+  "description": "Actual empty file (browserify's _empty.js as a package)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vespakoen/actual-empty-file.git"
+  },
+  "keywords": [
+    "empty",
+    "useless",
+    "for",
+    "99.9999%"
+  ],
+  "author": "Koen Schmeets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vespakoen/actual-empty-file/issues"
+  },
+  "homepage": "https://github.com/vespakoen/actual-empty-file#readme"
+}
